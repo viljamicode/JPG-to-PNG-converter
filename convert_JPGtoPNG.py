@@ -1,4 +1,5 @@
-# This is a simple script that uses PIL(Python Imaging Library) to convert JPGs to PNGs within a folder.
+# This is a simple script that uses Pillow (Python Imaging Library fork for python3)
+# to convert JPGs to PNGs within a folder.
 # To run:
 # 1.  Open the cmd/terminal to the folder where "convert_JPGtoPNG.py" is
 #     and make sure it has a subfolder with the JPG/JPGs that you wish to convert to PNG.
